@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Вова\source\repos\XO\XO\Source.cpp(120): warning C4715: List::flex: значение возвращается не при всех путях выполнения
+  XO.vcxproj -> D:\Вова\source\repos\XO\Debug\XO.exe
