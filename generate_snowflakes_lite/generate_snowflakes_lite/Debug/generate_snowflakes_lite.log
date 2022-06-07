@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Владимир Пшеничный\source\repos\generate_snowflakes_lite\generate_snowflakes_lite\Source.cpp(197,9): warning C4101: value: неиспользованная локальная переменная
+C:\Users\Владимир Пшеничный\source\repos\generate_snowflakes_lite\generate_snowflakes_lite\Source.cpp(120): warning C4715: physics: значение возвращается не при всех путях выполнения
+  generate_snowflakes_lite.vcxproj -> C:\Users\Владимир Пшеничный\source\repos\generate_snowflakes_lite\Debug\generate_snowflakes_lite.exe
