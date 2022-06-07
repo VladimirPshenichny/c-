@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "warships", "warships\warships.vcxproj", "{83709554-7420-4ED1-976F-AAA39668D270}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83709554-7420-4ED1-976F-AAA39668D270}.Debug|x64.ActiveCfg = Debug|x64
+		{83709554-7420-4ED1-976F-AAA39668D270}.Debug|x64.Build.0 = Debug|x64
+		{83709554-7420-4ED1-976F-AAA39668D270}.Debug|x86.ActiveCfg = Debug|Win32
+		{83709554-7420-4ED1-976F-AAA39668D270}.Debug|x86.Build.0 = Debug|Win32
+		{83709554-7420-4ED1-976F-AAA39668D270}.Release|x64.ActiveCfg = Release|x64
+		{83709554-7420-4ED1-976F-AAA39668D270}.Release|x64.Build.0 = Release|x64
+		{83709554-7420-4ED1-976F-AAA39668D270}.Release|x86.ActiveCfg = Release|Win32
+		{83709554-7420-4ED1-976F-AAA39668D270}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C25FCD5-5C79-41AB-B582-19D9E9E082B7}
+	EndGlobalSection
+EndGlobal
