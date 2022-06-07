@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Владимир Пшеничный\source\repos\execution\execution\Source.cpp(91,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владимир Пшеничный\source\repos\execution\execution\Source.cpp(128,40): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+C:\Users\Владимир Пшеничный\source\repos\execution\execution\Source.cpp(129,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владимир Пшеничный\source\repos\execution\execution\Build_list.h(78): warning C4715: Build_list::move: значение возвращается не при всех путях выполнения
+  execution.vcxproj -> C:\Users\Владимир Пшеничный\source\repos\execution\Debug\execution.exe
