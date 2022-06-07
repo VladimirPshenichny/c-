@@ -1,0 +1,5 @@
+﻿  Linked_list.cpp
+  Source.cpp
+  Создание кода...
+C:\Users\vivaf\source\repos\movie\movie\Linked_list.h(111): warning C4715: Linked_list::change: значение возвращается не при всех путях выполнения
+  movie.vcxproj -> C:\Users\vivaf\source\repos\movie\Debug\movie.exe
