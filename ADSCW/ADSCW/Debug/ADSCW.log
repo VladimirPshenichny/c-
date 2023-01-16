@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\Владимир Пшеничный\source\repos\ADSCW\ADSCW\Source.cpp(91,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владимир Пшеничный\source\repos\ADSCW\ADSCW\Source.cpp(144,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владимир Пшеничный\source\repos\ADSCW\ADSCW\Source.cpp(172,72): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владимир Пшеничный\source\repos\ADSCW\ADSCW\Source.cpp(224,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владимир Пшеничный\source\repos\ADSCW\ADSCW\Source.cpp(254,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владимир Пшеничный\source\repos\ADSCW\ADSCW\Source.cpp(283,70): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владимир Пшеничный\source\repos\ADSCW\ADSCW\Source.cpp(355,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владимир Пшеничный\source\repos\ADSCW\ADSCW\Source.cpp(365,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Владимир Пшеничный\source\repos\ADSCW\ADSCW\Source.cpp(384,20): warning C4018: <: несоответствие типов со знаком и без знака
+  ADSCW.vcxproj -> C:\Users\Владимир Пшеничный\source\repos\ADSCW\Debug\ADSCW.exe
