@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Владимир Пшеничный\source\repos\calc\calc\Source.cpp(44,23): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Владимир Пшеничный\source\repos\calc\calc\Source.cpp(48,23): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
